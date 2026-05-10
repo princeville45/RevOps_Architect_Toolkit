@@ -1,46 +1,77 @@
-# RevOps-Architect-Toolkit 🏛️
-**Statistical Intelligence | Revenue Operations | Digital Asset Architecture**
+# RevOps Architect Toolkit
 
-Designed and Engineered by **Irem Victor Chinonso**
-*The Statistical Strategist | HubSpot Certified Revenue Operations Architect*
+> Statistical Intelligence meets Revenue Operations Architecture.
 
----
-
-## 🚀 Overview
-This repository serves as the technical "Command Center" for a multi-faceted approach to **Statistical Business Intelligence**. It bridges the gap between academic statistical theory (OAU Statistics) and real-world operational execution in wholesale logistics and digital media.
-
-## 🛠️ Modules
-
-### 1. EMEA Revenue Normalization Engine (`normalization_engine.py`)
-A Python-based framework designed to standardize financial reporting across fragmented markets. 
-- **Core Feature:** Neutralizes currency fluctuations and indexes sales velocity.
-- **Impact:** Successfully modeled for a $8.6M portfolio standardization.
-
-### 2. Wholesale Operations Command Center (`depot_intelligence.py`)
-Digital architecture for high-volume wholesale logistics.
-- **Core Feature:** Real-time inventory synchronization and revenue integrity tracking.
-- **Application:** Currently managing logistics for a bottled water depot in Ife, Nigeria.
-
-### 3. Statistical Research Pipeline (`research_analytics.py`)
-Automated data analysis for academic and market research.
-- **Core Feature:** Frequency distribution, percentage validation, and demographic modeling.
-- **Proof of Concept:** Analyzed 265 samples for a study on "Digital Media Impact in Religious Studies."
-
-### 4. Content Algorithmic Engine (`content_logic.py`)
-The logic behind **Street Code Studios**.
-- **Core Feature:** Narrative hook indexing and financial-noir script automation.
-- **Strategy:** Maximizing CPM by bridging "Street Code" with financial literacy.
+![HubSpot RevOps Certified](https://img.shields.io/badge/HubSpot-RevOps%20Certified-orange)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ---
 
-## 📈 The Philosophy
-> "I design the statistical framework and use AI-assisted engineering to implement the Python architecture. My focus is on Algorithm Design and Data Integrity."
+## Overview
 
-## 🎓 Education & Certifications
-- **B.Sc. Statistics** | Obafemi Awolowo University (OAU)
-- **HubSpot Revenue Operations Certified**
-- **HubSpot Reporting Certified**
+A command center for Statistical Business Intelligence. This toolkit bridges academic statistical theory with real-world revenue operations — built by a HubSpot-certified RevOps architect studying Statistics at Obafemi Awolowo University, Nigeria.
+
+Every module here was designed to solve a real problem, not demonstrate knowledge.
 
 ---
-**Indispensable. Invaluable. Irresistible.**
-*Architecting the future of data-driven business.*
+
+## What Is RevOps Architecture?
+
+Revenue Operations aligns Sales, Marketing, and Operations into a single data-driven system. As an architect, the job is to design the statistical framework — the logic that decides what data flows where, how it is measured, and what decisions it drives.
+
+This repo is that framework made executable.
+
+---
+
+## Modules
+
+### Statistical Intelligence Layer
+- KPI definition and measurement architecture
+- Custom metric formulas for SME revenue tracking
+- Data normalization and cleansing pipelines
+
+### Operations Sync Engine
+- Multi-tool data synchronization (Airtable, Notion, Google Sheets)
+- Automated reporting triggers
+- Cross-platform data integrity checks
+
+### EMEA Revenue Module
+- Multi-currency normalization (NGN, USD, EUR, GBP)
+- Market-adjusted revenue reporting
+- Exchange rate injection pipeline
+
+---
+
+## Certifications
+
+- HubSpot Revenue Operations Certified — May 2026 (Valid: June 2027)
+  Code: 41905e76785a430799f42d6324e72299
+- HubSpot Reporting Certified — May 2026 (Valid: June 2027)
+  Code: f04c48dd3f964fe2865a630d198e0544
+
+---
+
+## Tech Stack
+
+| Layer | Tools |
+|---|---|
+| Language | Python 3.9+ |
+| CRM | HubSpot (Certified) |
+| Data Ops | Airtable, Notion, Google Sheets |
+| Pipelines | pandas, numpy, requests |
+| Automation | Google Apps Script, GitHub Actions |
+
+---
+
+## About the Architect
+
+**Irem Victor Chinonso** — Statistical Business Architect, Ife, Nigeria.
+Building data-driven systems at the intersection of statistics, operations, and AI.
+
+- Email: princeville45@gmail.com
+- GitHub: [github.com/princeville45](https://github.com/princeville45)
+
+---
+
+*Architecture first. Execution follows.*
