@@ -21,6 +21,10 @@ This document outlines the **"Total Overlay"** strategy—a zero-friction data e
 *   **n8n Orchestration:** A series of self-hosted workflows that watch for a change in *Google Sheets* and instantly update the corresponding record in *Airtable*.
 *   **Apps Script Triggers:** Ensures that every new sales entry triggers a **Normalization Event** (converting NGN to USD via the `normalization_engine.py`).
 
+### 4. The Intelligence Layer (Decision Support)
+*   **Global ROI Optimizer:** A high-level weighting engine (`global_roi_optimizer.py`) that calculates the daily "Success Index" across Sales, Content, and Education.
+*   **Predictive Logistics:** Forecasts stock depletion to prevent revenue leakage at the Depot.
+
 ---
 
 ## 🔄 The Mirrored Sync Workflow
